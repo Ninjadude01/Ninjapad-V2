@@ -20,7 +20,6 @@ This is my second time creating a macropad, and it is because my first design wa
 ![pic](Pictures/Screenshot%202026-07-18%20143237.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143326.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143336.png)
-# Case
 # Assembly Guide
 # Firmware Flashing Steps
 # BOM
