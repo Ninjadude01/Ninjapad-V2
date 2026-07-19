@@ -11,6 +11,8 @@ This is my second time creating a macropad, and it is because my first design wa
 ![pic](Pictures/Base%20view.png)
 ![pic](Pictures/Base%20bottom%20view.png)
 # Layout
+![pic](Pictures//Screenshot%202026-07-19%20080732.png)
+
 # Schematic
 ![pic](Pictures/Screenshot%202026-07-18%20143142.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
