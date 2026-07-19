@@ -21,6 +21,12 @@ This is my second time creating a macropad, and it is because my first design wa
 ![pic](Pictures/Screenshot%202026-07-18%20143326.png)
 ![pic](Pictures/Screenshot%202026-07-19%20104600.png)
 # Assembly Guide
+1. Solder the headerpins to the xiao, then the xiao to the pcb. Solder the rotary encoder, kailh hot swap sockets, oled display, mini leds, diodes, resistor, and oled display to the pcb as well. Make sure to cut off any legs or pins that are sticking out.
+2. Solder the positive end of your litium battery to bat+ on the underside of the xiao, and the negative side to bat-.
+3. After printing out the peices, use a soldering iron set to 200°C to slowly press in the 4 heatset inserts into their designated locations in the main body of the macropad.
+4. Snap the keyswitches onto the plate, and place it ontop of the pcb, making sure to align the keyswich pins into the hot swap sockets. Place the knob cap over the rotary encoder.
+5. Place the battery in the designated location in the base, and cover it with the connected pcb and plate. Screw in the plate using the m2 screws.
+   
 # Firmware Flashing Steps
 # BOM
 |Item|Part Name              |Quantity|Description                    |Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
