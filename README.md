@@ -14,7 +14,7 @@ This is my second time creating a macropad, and it is because my first design wa
 # Schematic
 ![pic](Pictures/Screenshot%202026-07-18%20143142.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
-![pic](Pictures/Screenshot%202026-07-18%20143210.png)
+![pic](Pictures/Screenshot%202026-07-19%20105330.png)
 # PCB
 ![pic](Pictures/Screenshot%202026-07-19%20104420.png)
 ![pic](Pictures/Screenshot%202026-07-19%20104428.png)
