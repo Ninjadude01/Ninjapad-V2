@@ -16,10 +16,10 @@ This is my second time creating a macropad, and it is because my first design wa
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143210.png)
 # PCB
-![pic](Pictures/Screenshot%202026-07-18%20143232.png)
-![pic](Pictures/Screenshot%202026-07-18%20143237.png)
+![pic](Pictures/Screenshot%202026-07-19%20104420.png)
+![pic](Pictures/Screenshot%202026-07-19%20104428.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143326.png)
-![pic](Pictures/Screenshot%202026-07-18%20143336.png)
+![pic](Pictures/Screenshot%202026-07-19%20104600.png)
 # Assembly Guide
 # Firmware Flashing Steps
 # BOM
