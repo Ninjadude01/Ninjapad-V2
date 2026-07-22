@@ -4,6 +4,7 @@ The Ninjapad-V2 is a wireless macropad with 6 switches, a customizable knob, and
 This is my second time creating a macropad, and it is because my first design was very basic and bland. I wanted to create something with more flair, which is why I decided to have another go. 
 
 # Fallout Zine
+![1](Assets/NinjapadV2-Zine.png)
 # Renders
 ![pic](Pictures/Main%20View.png)
 ![pic](Pictures/PCB%20view.png)
