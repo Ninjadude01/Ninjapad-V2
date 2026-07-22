@@ -18,7 +18,7 @@ I decided to go with a 6-key layout as I do not need too many macros. It's a goo
 ![pic](Pictures//Screenshot%202026-07-19%20080732.png)
 
 # Schematic
-The pcb for NinjapadV2 was designed in kicad, and a modified 3x3 matrix is used. **Note:** The wiring for the lithium battery was not included in the schematic. The positive side of the battery is wired to the bat+ pad on the bottom of the xiao, and the negative side is wired to bat-.
+The schematic and PCB for NinjapadV2 was designed in kicad, and a modified 3x3 matrix is used. **Note:** The wiring for the lithium battery was not included in the schematic. The positive side of the battery is wired to the bat+ pad on the bottom of the xiao, and the negative side is wired to bat-.
 ![pic](Pictures/Screenshot%202026-07-18%20143142.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
 ![pic](Pictures/Screenshot%202026-07-19%20105330.png)
