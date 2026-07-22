@@ -13,6 +13,8 @@ This is my second time creating a macropad; my first design was very basic and b
 ![pic](Pictures/Base%20bottom%20view.png)
 # Layout
 I decided to go with a 6-key layout as I do not need too many macros. It's a good mix between looking clean, while providing functionality.
+
+
 ![pic](Pictures//Screenshot%202026-07-19%20080732.png)
 
 # Schematic
