@@ -1,7 +1,7 @@
 # Ninjapad-V2
 The Ninjapad-V2 is a wireless macropad with 6 switches, a customizable knob, and a 0.91" oled display! It is fully hot-swappable, uses a 3.7V 600mAh rechargable lithium battery, and has mini-leds. By using ZMK firmware, it can wirelessly connect to your device and function as usual.
 
-This is my second time creating a macropad, and it is because my first design was very basic and bland. I wanted to create something with more flair, which is why I decided to have another go. 
+This is my second time creating a macropad, and it is because my first design was very basic and bland. I wanted to create something with more flair, which is why I decided to have another go by creating NinjapadV2.
 
 # Fallout Zine
 ![1](Assets/NinjapadV2-Zine.png)
@@ -12,13 +12,16 @@ This is my second time creating a macropad, and it is because my first design wa
 ![pic](Pictures/Base%20view.png)
 ![pic](Pictures/Base%20bottom%20view.png)
 # Layout
+I decided to go with a 6-key layout as I do not need too many macros. 6 is a good mix between looking simple/clean, while providing lots of functionality.
 ![pic](Pictures//Screenshot%202026-07-19%20080732.png)
 
 # Schematic
+The pcb for NinjapadV2 was designed in kicad, and a modified 3x3 matrix is used. **Note** The wiring for the lithium battery was not included in the schematic. The positive side of the battery is wired to the bat+ pad on the bottom of the xiao, and the negative side is wired to bat-.
 ![pic](Pictures/Screenshot%202026-07-18%20143142.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
 ![pic](Pictures/Screenshot%202026-07-19%20105330.png)
 # PCB
+The xiao is located on the top right corner for easy access when you need to plug it in. The silkscreen includes the name "NinjaboardV2" written diagonally, the hackclub/nasa logo, and a hackclub milkyway star sticker.
 ![pic](Pictures/Screenshot%202026-07-19%20104420.png)
 ![pic](Pictures/Screenshot%202026-07-19%20104428.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143326.png)
@@ -31,6 +34,12 @@ This is my second time creating a macropad, and it is because my first design wa
 5. Place the battery in the designated location in the base, and cover it with the connected pcb and plate. Screw in the plate using the m2 screws.
    
 # Firmware Flashing Steps
+1. Download the .uf2 file found in the Firmware folder.
+2. Plug the xiao into your device. Press the tiny reset button twice, and a new usb drive called Xiao-BLE should appear.
+3. Copy and paste the .uf2 file into the drive.
+4. Open the bluetooth settings on your device, and the name "NinjapadV2" should appear. Click to pair.
+5. Your new NinjapadV2 should be ready to go!
+   
 # BOM
 |Item|Part Name              |Quantity|Description                    |Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |----|-----------------------|--------|-------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
