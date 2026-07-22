@@ -12,16 +12,16 @@ This is my second time creating a macropad; my first design was very basic and b
 ![pic](Pictures/Base%20view.png)
 ![pic](Pictures/Base%20bottom%20view.png)
 # Layout
-I decided to go with a 6-key layout as I do not need too many macros. 6 is a good mix between looking simple/clean, while providing lots of functionality.
+I decided to go with a 6-key layout as I do not need too many macros. It's a good mix between looking clean, while providing functionality.
 ![pic](Pictures//Screenshot%202026-07-19%20080732.png)
 
 # Schematic
-The pcb for NinjapadV2 was designed in kicad, and a modified 3x3 matrix is used. **Note** The wiring for the lithium battery was not included in the schematic. The positive side of the battery is wired to the bat+ pad on the bottom of the xiao, and the negative side is wired to bat-.
+The pcb for NinjapadV2 was designed in kicad, and a modified 3x3 matrix is used. **Note:** The wiring for the lithium battery was not included in the schematic. The positive side of the battery is wired to the bat+ pad on the bottom of the xiao, and the negative side is wired to bat-.
 ![pic](Pictures/Screenshot%202026-07-18%20143142.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143202.png)
 ![pic](Pictures/Screenshot%202026-07-19%20105330.png)
 # PCB
-The xiao is located on the top right corner for easy access when you need to plug it in. The silkscreen includes the name "NinjaboardV2" written diagonally, the hackclub/nasa logo, and a hackclub milkyway star sticker.
+The xiao is located on the top right corner for easy access when you need to plug it in. The silkscreen includes the name "NinjaboardV2" written diagonally, the Hackclub/Nasa logo, and a Hackclub Milkyway star sticker.
 ![pic](Pictures/Screenshot%202026-07-19%20104420.png)
 ![pic](Pictures/Screenshot%202026-07-19%20104428.png)
 ![pic](Pictures/Screenshot%202026-07-18%20143326.png)
