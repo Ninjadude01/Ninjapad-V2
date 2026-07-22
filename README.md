@@ -1,7 +1,7 @@
 # Ninjapad-V2
 The Ninjapad-V2 is a wireless macropad with 6 switches, a customizable knob, and a 0.91" oled display! It is fully hot-swappable, uses a 3.7V 600mAh rechargable lithium battery, and has mini-leds. By using ZMK firmware, it can wirelessly connect to your device and function as usual.
 
-This is my second time creating a macropad, and it is because my first design was very basic and bland. I wanted to create something with more flair, which is why I decided to have another go by creating NinjapadV2.
+This is my second time creating a macropad; my first design was very basic and bland. I wanted to create something that was more advanced, had more features, and looked cooler, which is why I decided to have another go though NinjapadV2.
 
 # Fallout Zine
 ![1](Assets/NinjapadV2-Zine.png)
