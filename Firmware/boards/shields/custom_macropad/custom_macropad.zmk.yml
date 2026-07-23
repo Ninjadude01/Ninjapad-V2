@@ -1,0 +1,12 @@
+file_format: "1"
+id: custom_macropad
+name: NinjapadV2
+type: shield
+requires:
+  - seeed_xiao
+features:
+  - keys
+  - encoders
+  - display
+  - underglow
+  - wireless
